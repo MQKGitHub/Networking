@@ -1,4 +1,4 @@
-## 🌐 Networking Fundamentals  
+## 🌐 Networking 
 
 This section of my TryHackMe journey explores the backbone of modern communication: networking. From foundational models like OSI/TCP-IP to protocol analysis with Wireshark and offensive tools like Nmap, these concepts are critical for cybersecurity, penetration testing, and system administration.  
 
