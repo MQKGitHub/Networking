@@ -10,13 +10,13 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 
 | Topic Name                  | Status        | Link                                                                 |
 |-----------------------------|---------------|----------------------------------------------------------------------|
-| Networking Concepts         | ✅ Completed   | Coming soon                                                         |
-| Networking Essentials       | ✅ Completed   | Coming soon                                                         |
-| Networking Core Protocols   | ✅ Completed   | Coming soon                                                         |
-| Networking Secure Protocols | ✅ Completed   | Coming soon                                                         |
-| Wireshark: The Basics       | ✅ Completed   | Coming soon                                                         |
-| Tcpdump: The Basics         | ✅ Completed   | Coming soon                                                         |
-| Nmap: The Basics            | ✅ Completed   | Coming soon                                                         |
+| Networking Concepts         | 🔄 In Progress | Coming soon                                                         |
+| Networking Essentials       | ⏳ Not Started | Coming soon                                                         |
+| Networking Core Protocols   | ⏳ Not Started | Coming soon                                                         |
+| Networking Secure Protocols | ⏳ Not Started | Coming soon                                                         |
+| Wireshark: The Basics       | ⏳ Not Started | Coming soon                                                         |
+| Tcpdump: The Basics         | ⏳ Not Started | Coming soon                                                         |
+| Nmap: The Basics            | ⏳ Not Started | Coming soon                                                         |
 
 ---
 
