@@ -10,8 +10,8 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 
 | Topic Name                  | Status        | Link                                                                 |
 |-----------------------------|---------------|----------------------------------------------------------------------|
-| Networking Concepts         | 🔄 In Progress | Coming soon                                                         |
-| Networking Essentials       | ⏳ Not Started | Coming soon                                                         |
+| Networking Concepts         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Concepts/)  |
+| Networking Essentials       | 🔄 In Progress | Coming soon                                                         |
 | Networking Core Protocols   | ⏳ Not Started | Coming soon                                                         |
 | Networking Secure Protocols | ⏳ Not Started | Coming soon                                                         |
 | Wireshark: The Basics       | ⏳ Not Started | Coming soon                                                         |
@@ -23,8 +23,8 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 ### 🧠 Overview  
 
 #### 📡 Networking Concepts  
-- Coming soon
-- Coming soon
+- Gained a foundational understanding of networking by exploring the OSI and TCP/IP models, IP addressing, subnetting, and the differences between TCP and UDP protocols.  
+- Practised analysing packet encapsulation and learned how data traverses networks, setting the stage for deeper exploration into network security and communication protocols.
 
 #### 🔌 Networking Essentials  
 - Coming soon
