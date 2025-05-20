@@ -10,13 +10,13 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 
 | Topic Name                  | Status        | Link                                                                 |
 |-----------------------------|---------------|----------------------------------------------------------------------|
-| Networking Concepts         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Concepts/)  |
-| Networking Essentials       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Essentials) |
-| Networking Core Protocols   | 🔄 In Progress | Coming soon                                                         |
-| Networking Secure Protocols | ⏳ Not Started | Coming soon                                                         |
-| Wireshark: The Basics       | ⏳ Not Started | Coming soon                                                         |
-| Tcpdump: The Basics         | ⏳ Not Started | Coming soon                                                         |
-| Nmap: The Basics            | ⏳ Not Started | Coming soon                                                         |
+| Networking Concepts         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Concepts/)       |
+| Networking Essentials       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Essentials)      |
+| Networking Core Protocols   | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Core-Protocols/) |
+| Networking Secure Protocols | 🔄 In Progress | Coming soon                                                              |
+| Wireshark: The Basics       | ⏳ Not Started | Coming soon                                                              |
+| Tcpdump: The Basics         | ⏳ Not Started | Coming soon                                                              |
+| Nmap: The Basics            | ⏳ Not Started | Coming soon                                                              |
 
 ---
 
@@ -30,9 +30,9 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 - Explored key networking protocols such as DHCP, ARP, ICMP, NAT, and routing to understand how devices communicate and configure themselves on a network.  
 - Practised using tools like `ping`, `traceroute`, and Wireshark to analyse packet flow and troubleshoot connectivity issues.
 
-#### 📨 Networking Core Protocols  
-- Coming soon
-- Coming soon
+#### 📨  Networking Core Protocols  
+- Explored essential networking protocols like DNS, HTTP, FTP, and SMTP to understand how they support core internet functions.  
+- Practised using tools like `nslookup`, `whois`, and `telnet` to interact with services directly and inspect real-time network communication.
 
 #### 🔒 Networking Secure Protocols  
 - Coming soon
