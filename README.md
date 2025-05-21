@@ -10,13 +10,13 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 
 | Topic Name                  | Status        | Link                                                                 |
 |-----------------------------|---------------|----------------------------------------------------------------------|
-| Networking Concepts         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Concepts/)       |
-| Networking Essentials       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Essentials)      |
-| Networking Core Protocols   | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Core-Protocols/) |
-| Networking Secure Protocols | 🔄 In Progress | Coming soon                                                              |
-| Wireshark: The Basics       | ⏳ Not Started | Coming soon                                                              |
-| Tcpdump: The Basics         | ⏳ Not Started | Coming soon                                                              |
-| Nmap: The Basics            | ⏳ Not Started | Coming soon                                                              |
+| Networking Concepts         | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Concepts/)         |
+| Networking Essentials       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Essentials)        |
+| Networking Core Protocols   | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Core-Protocols/)   |
+| Networking Secure Protocols | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Secure-Protocols/) |
+| Wireshark: The Basics       | 🔄 In Progress | Coming soon                                                                |
+| Tcpdump: The Basics         | ⏳ Not Started | Coming soon                                                                |
+| Nmap: The Basics            | ⏳ Not Started | Coming soon                                                                |
 
 ---
 
@@ -35,8 +35,8 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 - Practised using tools like `nslookup`, `whois`, and `telnet` to interact with services directly and inspect real-time network communication.
 
 #### 🔒 Networking Secure Protocols  
-- Coming soon
-- Coming soon
+- Learned how secure protocols like TLS, SSH, and VPNs protect network communication through encryption and authentication.  
+- Explored how plaintext services are upgraded (e.g. HTTP → HTTPS) and analysed secure traffic using tools like Wireshark and OpenSSH.
 
 #### 🦈 Wireshark: The Basics  
 - Coming soon
