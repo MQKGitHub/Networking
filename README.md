@@ -14,8 +14,8 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 | Networking Essentials       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Essentials)        |
 | Networking Core Protocols   | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Core-Protocols/)   |
 | Networking Secure Protocols | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Networking-Secure-Protocols/) |
-| Wireshark: The Basics       | 🔄 In Progress | Coming soon                                                                |
-| Tcpdump: The Basics         | ⏳ Not Started | Coming soon                                                                |
+| Wireshark: The Basics       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Wireshark-The-Basics/)        |
+| Tcpdump: The Basics         | 🔄 In Progress | Coming soon                                                                |
 | Nmap: The Basics            | ⏳ Not Started | Coming soon                                                                |
 
 ---
@@ -39,8 +39,8 @@ Each topic builds layered knowledge—from theory to practical packet-level insi
 - Explored how plaintext services are upgraded (e.g. HTTP → HTTPS) and analysed secure traffic using tools like Wireshark and OpenSSH.
 
 #### 🦈 Wireshark: The Basics  
-- Coming soon
-- Coming soon
+- Learned how to load, view, and analyse network traffic using Wireshark’s GUI and PCAP files.  
+- Explored filters, packet dissection, expert info, and stream following to identify and understand traffic patterns.  
 
 #### 🐧 Tcpdump: The Basics  
 - Coming soon
